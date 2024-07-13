@@ -12,7 +12,7 @@ let when = [
   "when I was sleeping",
   "while I was exercising",
   "during my lunch",
-  "while I was praying"
+  "while I was praying",
 ];
 
 window.onload = function() {
