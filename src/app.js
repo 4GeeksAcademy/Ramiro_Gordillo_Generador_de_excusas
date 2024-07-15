@@ -1,9 +1,14 @@
+<<<<<<< HEAD
+=======
+/* eslint-disable */
+>>>>>>> ebcc549faa167803c2ba31d6f882d10178dbe1eb
 import "bootstrap";
 import "./style.css";
 
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
+<<<<<<< HEAD
 let who = ["The dog", "My grandma", "The mailman", "My bird"];
 let action = ["ate", "peed", "crushed", "broke"];
 let what = ["my homework", "my phone", "the car"];
@@ -47,3 +52,9 @@ function loadExcuse() {
   let excuse = getExcuse();
   excuseLoad.innerHTML = excuse;
 }
+=======
+window.onload = function() {
+  //write your code here
+  console.log("Hello Rigo from the console!");
+};
+>>>>>>> ebcc549faa167803c2ba31d6f882d10178dbe1eb

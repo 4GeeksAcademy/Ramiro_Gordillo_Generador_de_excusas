@@ -1,4 +1,5 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+<<<<<<< HEAD
 .container {
   display: flex;
   justify-content: center;
@@ -6,3 +7,5 @@
   width: 100vw;
   height: 100vh;
 }
+=======
+>>>>>>> ebcc549faa167803c2ba31d6f882d10178dbe1eb
